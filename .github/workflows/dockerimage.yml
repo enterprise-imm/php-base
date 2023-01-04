@@ -60,7 +60,6 @@ jobs:
             INSTALL_BCMATH=true
             INSTALL_EXIF=true
             INSTALL_INTL=true
-            INSTALL_LDAP=true
             INSTALL_IMAGE_OPTIMIZERS=true
             INSTALL_IMAGEMAGICK=true
             INSTALL_YAML=true
